@@ -1,0 +1,13 @@
+/home/pavel/create-near-NFTapp/NFT-app/contract/target/release/deps/quote-fc87a9b28edfe415.rmeta: /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/home/pavel/create-near-NFTapp/NFT-app/contract/target/release/deps/libquote-fc87a9b28edfe415.rlib: /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/home/pavel/create-near-NFTapp/NFT-app/contract/target/release/deps/quote-fc87a9b28edfe415.d: /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:

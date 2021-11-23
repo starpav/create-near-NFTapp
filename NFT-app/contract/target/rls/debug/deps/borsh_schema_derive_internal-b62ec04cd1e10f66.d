@@ -1,0 +1,10 @@
+/home/pavel/create-near-NFTapp/NFT-app/contract/target/rls/debug/deps/borsh_schema_derive_internal-b62ec04cd1e10f66.rmeta: /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs
+
+/home/pavel/create-near-NFTapp/NFT-app/contract/target/rls/debug/deps/libborsh_schema_derive_internal-b62ec04cd1e10f66.rlib: /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs
+
+/home/pavel/create-near-NFTapp/NFT-app/contract/target/rls/debug/deps/borsh_schema_derive_internal-b62ec04cd1e10f66.d: /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs /home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs
+
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs:
+/home/pavel/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs:
