@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'nft.aiko.testnet'
+const CONTRACT_NAME = 'nft.aiko.testnet'
 
 function getConfig(env) {
   switch (env) {
